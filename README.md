@@ -1,2 +1,7 @@
-# for_stepik
-Who want to know my fullname?
+# Здесь будет мое ФИО
+
+
+~~Ivanov~~ **Иванов Иван Иванович**
+
+
+х06u - Крипта
